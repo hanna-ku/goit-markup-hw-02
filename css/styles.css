@@ -32,9 +32,7 @@ a {text-decoration: none;}
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus,
-.banner-button:hover,
-.banner-button:focus {
+.contacts-link:focus {
     color: #404bbf;
 }
 
@@ -54,6 +52,19 @@ a {text-decoration: none;}
         letter-spacing: 0.04em;
         color: #ffffff;
         cursor: pointer;}
+
+.banner-button:hover,
+.banner-button:focus {background-color: #404BBF;}
+
+.feature-title {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+
+.feature-text {font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;}
 
 .page-footer {
     background-color: #2e2f42;}
