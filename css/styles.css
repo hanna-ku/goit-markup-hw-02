@@ -14,7 +14,6 @@ a {text-decoration: none;}
     text-transform: uppercase;
     color: #4d5ae5;}
 
-.header-logo,
 .logo-part {color: #2e2f42;}
 
 .nav-link {font-weight: 500;
@@ -83,7 +82,6 @@ a {text-decoration: none;}
 .page-footer {
     background-color: #2e2f42;}
 
-.logo footer-logo {color: #4d5ae5;}
 
 .footer-logo,
 .logo-part {
