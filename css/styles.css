@@ -32,9 +32,28 @@ a {text-decoration: none;}
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus {
+.contacts-link:focus,
+.banner-button:hover,
+.banner-button:focus {
     color: #404bbf;
 }
+
+.banner {background-color: #2e2f42;}
+
+.banner-title {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #ffffff;}
+
+.banner-button {background-color: #4D5AE5;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #ffffff;
+        cursor: pointer;}
 
 .page-footer {
     background-color: #2e2f42;}
